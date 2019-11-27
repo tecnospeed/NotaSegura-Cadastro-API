@@ -1,0 +1,15 @@
+.form-group {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.nav-tabs{
+    margin-top: 15px;
+}
+#line-button{
+    margin-top: 3%;
+}
+#btn-enviar{
+    text-align: right
+}
